@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<mapper nameSpace="org.smart4j.project.mapper.CustomerMapper">
+    <select id ="getCustomerById" resultType="org.smart4j.project.model.Customer">
+        select * from customer where id = ?
+    </select>
+    <select id="getCustomerList" resultType="org.smart4j.project.model.Customer">
+        select * from customer
+    </select>
+
+    <update id ="updateCustomer" parameterType="org.smart4j.project.model.Customer">
+        update customer set name=#{name}, contact=#{contact}, telephone=#{telephone}, email=#{email} where id=#{id}
+    </update>
+    <delete id ="deleteCustomer" parameterType="org.smart4j.project.model.Customer">
+        delete from customer where id=#{id}
+    </delete>
+
+    <insert id ="createCustomer" parameterType="org.smart4j.project.model.Customer">
+        insert into customer(name,contact,telephone,email) values(#{name},#{contact},#{telephone},#{email})
+    </insert>
+</mapper>

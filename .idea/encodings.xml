@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/framework/bean/Function.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/framework/bean/MapperBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/framework/bean/Param.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/framework/sqlSession/Configuration.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/framework/sqlSession/Excutor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/framework/sqlSession/MapperProxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/framework/sqlSession/Myexcutor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/framework/sqlSession/Sqlsession.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/project/controller/CustomerController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/project/mapper/CustomerMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/smart4j/project/service/CustomerMyBatisService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/CustomerMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/config.xml" charset="GBK" />
+  </component>
+</project>
