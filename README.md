@@ -1,0 +1,2 @@
+# SmarkFramwork
+Smart Framwork框架为黄勇在开源中国发布的Jave Web框架实现 IOC、AOP、ORM轻量级解决方案。针对Smart Framwork中ORM框架设计比较简单，采用类似Mybatis重新改写Smart Framwork中的ORM部分
